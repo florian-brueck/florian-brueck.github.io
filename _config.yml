@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Florian Brück"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Munich, Germany"
   employer         : "Technical University Munich"
   pubmed           :
