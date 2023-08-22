@@ -2,9 +2,9 @@
 title: "Quantitative risk management"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "Technical University Munich"
-date: 2014-01-01
+date: "Summer semester 2021"
 location: ""
 ---
 
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-====== -->
+====== --->
