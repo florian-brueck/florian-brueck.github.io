@@ -2,10 +2,10 @@
 title: "Quantitative risk management"
 collection: teaching
 type: "Graduate course"
-permalink: 
+permalink: /teaching/2014-spring-teaching-1
 venue: "Technical University Munich"
 date: Summer semester 2021
-location:
+location: " "
 ---
 
 <!--- This is a description of a teaching experience. You can use markdown like any other post.
