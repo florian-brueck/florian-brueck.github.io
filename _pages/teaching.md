@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-permalink: /publications/
 author_profile: true
 ---
 <!--- layout: archive --->
