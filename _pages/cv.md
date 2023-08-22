@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dr. rer. nat. in Mathematics at Technical University Munich, 2023
+* M.S. in Financial Mathematics and Actuarial Sciences, Technical University Munich, 2019
+* B.S. in Business Mathematics, Ludwig Maximilians University Munich, 2017
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2019-2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
