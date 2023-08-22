@@ -1,18 +1,18 @@
 ---
-layout: archive
+
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+<!---layout: archive--->
+<!---{% include base_path %}-->
 
 Education
 ======
-* Dr. rer. nat. in Mathematics at Technical University Munich, 2023
-* M.S. in Financial Mathematics and Actuarial Sciences, Technical University Munich, 2019
+* Dr. rer. nat. in Mathematics, Technical University Munich,, with distinction, 2023
+* M.S. in Financial Mathematics and Actuarial Sciences, Technical University Munich, with distinction, 2019
 * B.S. in Business Mathematics, Ludwig Maximilians University Munich, 2017
 
 
