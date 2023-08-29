@@ -1,6 +1,6 @@
 ---
 
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 <!---layout: archive--->
 <!---{% include base_path %}-->
 
-Here you find the most important information about me.
+
 
 ## Current and past academic positions
 

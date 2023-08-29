@@ -5,7 +5,7 @@ author_profile: true
 ---
 <!--- layout: archive--->
 
-## Talks and Posters
+## Talks and posters
 
 * *Infinitely divisible priors on cumulative hazard rates*; Approximation Methods in Bayesian Analysis; 19/06/2023; CIRM Marseille (Poster)
 * *A new non-degenerate test for model selection based on maximum-mean-discrepancy*;
@@ -18,7 +18,7 @@ Edinburgh (virtual)
 
 
 
-## Workshops and Summer Schools
+## Workshops and summer schools
 
 * Machine Learning and Monte-Carlo in Insurance and Risk Management; 15/09/2022-16/09/2022;  Technical University Munich
 * 33rd International Summer School of the Swiss Association of Actuaries: Machine Learning in Insurance; 15/08/2022-19/08/2022 ; University of Lausanne
