@@ -17,7 +17,7 @@ at the Technical University Munich under the supervision of Prof. Dr. Matthias S
 
 
 
-# News 
+## News 
 
 + I presented a poster at the conference [*Approximation Methods in Bayesian Analysis*](https://conferences.cirm-math.fr/2768.html) at CIRM, Marseille (19.06.2023)
 + I successfully defended my Doctoral [thesis](https://mediatum.ub.tum.de/doc/1695145/document.pdf) at TUM (06.06.2023)
