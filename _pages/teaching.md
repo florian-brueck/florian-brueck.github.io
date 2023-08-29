@@ -16,7 +16,7 @@ author_profile: true
 + T. Solfronk, Maximum Mean Discrepancy for Model Comparisons, ongoing, joint supervison with [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)
 + Y. Zheng; Clustering-based portfolio optimization with constraints; ongoing, joint supervision with [Dominik de Witte](https://www.math.cit.tum.de/mathfinance/personen/doktorandeninnen-und-postdocs/dominik-de-witte/) and [Rudi Zagst](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/rudi-zagst/)
 + N. Khelifa, 3-month research internship on probabilistic clustering methods and ensemble methods for clustering, joint supervision with [Dominik de Witte](https://www.math.cit.tum.de/mathfinance/personen/doktorandeninnen-und-postdocs/dominik-de-witte/)
-+ S. Kobler; Vuong Test for Model Selection and its Application to Machine Learning; 2021, joint supervision with [Matthias Scherer](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/matthias-scherer/)  
++ S. Kobler; Vuong Test for Model Selection and its Application to Machine Learning; 2022, joint supervision with [Matthias Scherer](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/matthias-scherer/)  
 
 
 ## Research projects
