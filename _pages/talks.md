@@ -13,8 +13,8 @@ author_profile: true
 16th International Conference on Computational and Financial Econometrics; 17/12/2022; Kings College London
 * *Exact simulation of continuous max-id processes*; 24th International Conference on
 Computational Statistics; 23/08/2022;  University of Bologna
-* *Exchangeable min-id sequences: characterization, exponent measures and non-
-decreasing id-processes*; Extreme Value Analysis Conference 2021; 28/06/2021; The University of
+* *Exchangeable min-id sequences: characterization, exponent measures and non-decreasing
+id-processes*; Extreme Value Analysis 2021; 28/06/2021; The University of
 Edinburgh (virtual)
 
 

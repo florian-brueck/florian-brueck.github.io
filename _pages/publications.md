@@ -13,8 +13,8 @@ joint work with [Jean-David Fermanian](https://sites.google.com/view/jdfermanian
 
 ## Published papers
 
-+ [*Exact simulation of continuous max-id processes with applications to exchangeable max-id sequences*](doi:https://doi.org/10.1016/j.jmva.2022.105117), Journal of Multivariate Analysis, 2023
-+ [*Exchangeable min-id sequences: Characterization, exponent measures and non-decreasing id-processes*](doi:https://doi.org/10.1007/s10687-022-00450-w), Extremes, 2023, joint work with [Matthias Scherer](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/matthias-scherer/) and [Jan-Frederik Mai](https://www.xaia.com/de/unternehmen/team?tx_pxteam_pi1%5Baction%5D=show&tx_pxteam_pi1%5Bcontroller%5D=Team&tx_pxteam_pi1%5Bmember%5D=11&cHash=ce6e4c624b4fd20277e5f697f19b98a2) 
++ [*Exact simulation of continuous max-id processes with applications to exchangeable max-id sequences*](https://doi.org/10.1016/j.jmva.2022.105117), Journal of Multivariate Analysis, 2023
++ [*Exchangeable min-id sequences: Characterization, exponent measures and non-decreasing id-processes*](https://doi.org/10.1007/s10687-022-00450-w), Extremes, 2023, joint work with [Matthias Scherer](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/matthias-scherer/) and [Jan-Frederik Mai](https://www.xaia.com/de/unternehmen/team?tx_pxteam_pi1%5Baction%5D=show&tx_pxteam_pi1%5Bcontroller%5D=Team&tx_pxteam_pi1%5Bmember%5D=11&cHash=ce6e4c624b4fd20277e5f697f19b98a2) 
 + [*A corrected Clarke test for model selection and beyond*](https://doi.org/10.1016/j.jeconom.2021.12.013), Journal of Econometrics, 2023, joint work with [Jean-David Fermanian](https://sites.google.com/view/jdfermanian) and [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)
 
 
