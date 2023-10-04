@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the [Chair of Mathematical Finance](https://www.math.cit.tum.de/mathfinance/home/) 
-at the Technical University Munich under the supervision of Prof. Dr. Matthias Scherer. My current research interests include:
+I am a postdoctoral researcher at the [Research Center for Statistics](https://www.unige.ch/gsem/en/research/institutes/rcs/) 
+of the University of Geneva under the supervision of Prof. Dr. [Sebastian Engelke](http://www.sengelke.com/). I obtained my Doctorate from the Techical University of Munich under the supervision of Prof. Dr. [Matthias Scherer](https://www.math.cit.tum.de/en/mathfinance/staff/professors/prof-dr-matthias-scherer/). My current research interests include:
 + Extreme value theory
 + Statistical model comparison
 + Exchangeability

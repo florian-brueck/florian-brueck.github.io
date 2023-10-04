@@ -12,7 +12,7 @@ redirect_from:
 
 
 ## Current and past academic positions
-
+* 2023- now: Postdoctoral researcher at the Research Center for Statistics of the University of Geneva
 * 2019-2023: Research associate at the Chair of Mathematical Finance at Technical University Munich 
 
 ## Research stays
