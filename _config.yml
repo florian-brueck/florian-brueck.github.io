@@ -84,7 +84,7 @@ author:
   avatar           : "florian.jpg"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Munich, Germany"
-  employer         : "Technical University Munich"
+  employer         : "University of Geneva"
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=qlJcLscAAAAJ&hl=de&oi=ao"
   email            : florian.brueck@unige.ch
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "Flo771994"
+  github           : https://github.com/Flo771994
   google_plus      :
   keybase          :
   instagram        :
