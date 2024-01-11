@@ -21,7 +21,7 @@ of the University of Geneva under the supervision of Prof. Dr. [Sebastian Engelk
 
 ## News 
 
-+ There is a new [preprint](https://arxiv.org/search/math?searchtype=author&query=Br%C3%BCck,+F) on *Generative neural networks for characteristic functions* (10.01.2024) 
++ There is a new [preprint](https://arxiv.org/abs/2401.04778) on *Generative neural networks for characteristic functions* (10.01.2024) 
 + I joined the [research group](https://www.unige.ch/gsem/en/research/institutes/rcs/) of [Sebastian Engelke](http://www.sengelke.com/) as a PostDoc (01.10.2023)
 + I presented a poster at the conference [*Approximation Methods in Bayesian Analysis*](https://conferences.cirm-math.fr/2768.html) at CIRM, Marseille (19.06.2023)
 + I successfully defended my Doctoral [thesis](https://mediatum.ub.tum.de/doc/1695145/document.pdf) at TUM (06.06.2023)

@@ -7,6 +7,7 @@ author_profile: true
 
 ## Preprints
 
++ [Generative neural networks for characteristic functions](https://arxiv.org/abs/2401.04778), submitted
 + [*Distribution free MMD tests for model selection with estimated parameters*](https://arxiv.org/abs/2305.07549), submitted, 
 joint work with [Jean-David Fermanian](https://sites.google.com/view/jdfermanian) and [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/) 
 
