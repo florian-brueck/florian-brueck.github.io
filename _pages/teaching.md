@@ -13,8 +13,8 @@ author_profile: true
 
 ## Master theses supervision
 
-+ N. R. Kipfer, Generative parameter estimation of max-stable processes, ongoing, joint supervision with [Sebastian Engelke](http://www.sengelke.com/)
-+ V. Reimoser, Composite goodness of fit tests based on kernels, ongoing, joint supervision with [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)
++ N. R. Kipfer, Maximum Mean Discrepancy based estimation of multivariate max-stable distributions, 2024, joint supervision with [Sebastian Engelke](http://www.sengelke.com/)
++ V. Reimoser, Composite goodness of fit tests based on kernels, 2024, joint supervision with [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)
 + Y. Zheng; Clustering-based portfolio optimization with constraints; 2024, joint supervision with [Dominik de Witte](https://www.math.cit.tum.de/mathfinance/personen/doktorandeninnen-und-postdocs/dominik-de-witte/) and [Rudi Zagst](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/rudi-zagst/)
 + T. Solfronk, Maximum Mean Discrepancy for Model Comparisons, 2023, joint supervision with [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)
 + N. Khelifa, 3-month research internship on probabilistic clustering methods and ensemble methods for clustering, joint supervision with [Dominik de Witte](https://www.math.cit.tum.de/mathfinance/personen/doktorandeninnen-und-postdocs/dominik-de-witte/)

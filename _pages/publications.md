@@ -5,6 +5,13 @@ author_profile: true
 ---
 <!--- layout: archive --->
 
+## Ongoing research projects
+
++ Graphical models for stable processes, joint work with [Sebastian Engelke](http://www.sengelke.com/)
++ Infinitely divisible exponent measure priors for multivariate survival functions
++ Asymptotic distribution and bootstrap of Kernel-Stein-discrepancy estimators, joint work with [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/)  and Veronika Reimoser
++ Generative neural networks for Lévy processes, joint work with [Dominik de Witte](https://www.math.cit.tum.de/mathfinance/personen/doktorandinnen-und-postdocs/dominik-de-witte/)
+
 ## Preprints
 
 + [Generative neural networks for characteristic functions](https://arxiv.org/abs/2401.04778), submitted
