@@ -8,6 +8,11 @@ author_profile: true
 
 ## Talks and posters
 
+* *General graphical models for stable processes*; 15/12/2024; 18th International Joint Conference CFE-CMStats, Kings College London
+* *Infinitely divisible priors on exponent measures*; 03/10/2024, Bocconi Statistics and BIDSA seminars, Bocconi University
+* *Generative neural networks for characteristic functions*; 30/08/2024; 16th International Conference on Computational Statistics; Justus-Liebig University Gießen, 
+* *Graphical models for alpha-stable processes*; Bernoulli-ims 11th World Congress in Probability and Statistics;  16/08/2024; Ruhr University Bochum
+* *Infinitely divisible priors on exponent measures*; 6th International Symposium on Nonparametric Statistics;  27/06/2024; University of Minho
 * *Infinitely divisible priors on cumulative hazard rates*; Approximation Methods in Bayesian Analysis; 19/06/2023; CIRM Marseille (Poster)
 * *A new non-degenerate test for model selection based on maximum-mean-discrepancy*;
 16th International Conference on Computational and Financial Econometrics; 17/12/2022; Kings College London
