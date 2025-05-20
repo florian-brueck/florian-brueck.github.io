@@ -14,12 +14,13 @@ author_profile: true
 ## Preprints
 
 +  [*Infinitely divisible priors for multivariate survival functions*](https://arxiv.org/abs/2502.09162), submitted
-+ [*Distribution free MMD tests for model selection with estimated parameters*](https://arxiv.org/abs/2305.07549), submitted, 
-joint work with [Jean-David Fermanian](https://sites.google.com/view/jdfermanian) and [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/) 
+
 
 
 ## Published papers
 
++ [*Distribution free MMD tests for model selection with estimated parameters*](https://arxiv.org/abs/2305.07549), Journal of Machine Learning Research, forthcoming, 
+joint work with [Jean-David Fermanian](https://sites.google.com/view/jdfermanian) and [Aleksey Min](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/aleksey-min/) 
 + [*Generative neural networks for characteristic functions*](https://doi.org/10.1080/10618600.2025.2455135), Journal of Computational and Graphical Statistics, 2025
 + [*Exact simulation of continuous max-id processes with applications to exchangeable max-id sequences*](https://doi.org/10.1016/j.jmva.2022.105117), Journal of Multivariate Analysis, 2023
 + [*Exchangeable min-id sequences: Characterization, exponent measures and non-decreasing id-processes*](https://doi.org/10.1007/s10687-022-00450-w), Extremes, 2023, joint work with [Matthias Scherer](https://www.math.cit.tum.de/mathfinance/personen/professorinnen-und-professoren/matthias-scherer/) and [Jan-Frederik Mai](https://www.xaia.com/de/unternehmen/team?tx_pxteam_pi1%5Baction%5D=show&tx_pxteam_pi1%5Bcontroller%5D=Team&tx_pxteam_pi1%5Bmember%5D=11&cHash=ce6e4c624b4fd20277e5f697f19b98a2) 
