@@ -22,7 +22,7 @@ of the University of Geneva under the supervision of Prof. Dr. [Sebastian Engelk
 
 ## News 
 
-+ Our paper *Distribution free MMD tests for model selection with estimated parameters* has been accepted for publication in Journal of Machine Learning Research (18.05.2025)
++ Our paper [Distribution free MMD tests for model selection with estimated parameters](https://www.jmlr.org/papers/v26/23-1199.html) has been accepted for publication in Journal of Machine Learning Research (18.05.2025)
 + There is a new [preprint](https://arxiv.org/abs/2502.09162) *Infinitely divisible priors for multivariate survival functions* (13.02.2025)
 + A christmas present: My [paper](https://doi.org/10.1080/10618600.2025.2455135) *Generative neural networks for characteristic functions* has been accepted for publication in the Journal of Computational and Graphical Statistics (24.12.2024)
 + I gave talk at [CFE-CMStatistics](https://www.cmstatistics.org/CFECMStatistics2024/index.php) on *General graphical models for stable processes* (15.12.2024)
