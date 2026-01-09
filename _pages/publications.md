@@ -13,6 +13,7 @@ author_profile: true
 
 ## Preprints
 
++ [*Composite goodness-of-fit test with the Kernel Stein Discrepancy and a bootstrap for degenerate U-statistics with estimated parameters*](https://arxiv.org/abs/2510.22792)
 +  [*Infinitely divisible priors for multivariate survival functions*](https://arxiv.org/abs/2502.09162), submitted
 
 

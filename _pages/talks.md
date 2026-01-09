@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Talks and posters
-
+* *Graphical Models for Stable Lévy Processes Based on the Hüsler-Reiss Exponent Measure*; 26/06/2025; 14th Conference on Extreme Value Analysis, University of North Carolina Chapel Hill
 * *General graphical models for stable processes*; 15/12/2024; 18th International Joint Conference CFE-CMStats, Kings College London
 * *Infinitely divisible priors on exponent measures*; 03/10/2024, Bocconi Statistics and BIDSA seminars, Bocconi University
 * *Generative neural networks for characteristic functions*; 30/08/2024; 16th International Conference on Computational Statistics; Justus-Liebig University Gießen, 

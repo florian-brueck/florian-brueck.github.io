@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-## Current and past academic positions
-* 2023- now: Postdoctoral researcher at the Research Center for Statistics of the University of Geneva
+## Academic positions
+* 2023-2025: Postdoctoral researcher at the Research Center for Statistics of the University of Geneva
 * 2019-2023: Research associate at the Chair of Mathematical Finance at Technical University Munich 
 
 ## Research stays
@@ -26,9 +26,8 @@ redirect_from:
 * B. Sc. in Business Mathematics, Ludwig Maximilians University Munich, 2017
 
 
-
-## Industry experience
-
+## Industry positions
+* 2025-now: Quantitative researcher at White Oak Asset Management
 * 2019-2023: WWK Versicherungen
   * Simulation based analysis of CPPI product to assess its associated liquidity risk; 
   developed a tool to assess impact of investments into certain asset classes on Solvency capital requirement; 
